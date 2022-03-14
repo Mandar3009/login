@@ -1,0 +1,14 @@
+.dataRow{
+    border: 1px solid blue;
+    margin-bottom: 1rem;
+  }
+.rowText{
+    padding: 0.5rem;
+    color: white;
+}
+.searchContainer{
+    padding: 7.5rem;
+}
+body{
+    background-color: black;
+}

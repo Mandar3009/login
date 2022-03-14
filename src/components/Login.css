@@ -1,0 +1,113 @@
+body {
+    background-color: black;
+ 
+  }
+  .dataRow{
+    border: 1px solid blue;
+    margin-bottom: 1rem;
+  }
+.rowText{
+    padding: 0.5rem;
+    color: white;
+}
+.searchContainer{
+    padding: 3.5rem;
+}
+
+  .container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+  }
+  .container > form {
+    width: 70%;
+    border: 1px solid blue;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    height: 50%;
+
+  }
+  pre {
+    width: 70%;
+    color: #fff;
+    font-size: larger;
+  }
+  
+  button {
+    background: black !important;
+    border: 1px solid blue;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    margin-left: 40%;
+    margin-top: 3rem;
+    cursor: pointer;
+  }
+  p {
+    color: red;
+  }
+  .dataRow{
+    border: 1px solid blue;
+    margin-bottom: 1rem;
+  }
+.rowText{
+    padding: 0.5rem;
+    color: white;
+}
+.searchContainer{
+    padding: 7.5rem;
+}
+.inputBox{
+    margin-left: 2rem;
+}
+.formhead{
+    text-align: center;
+    color: #fff;
+}
+label{
+    color: #fff;
+    margin-left: 2rem;
+}
+.field div{
+    margin-bottom: 1rem;
+}
+.searchBox{
+    background-color: black;
+    color: #fff;
+    border: 1px solid blue;
+    margin-bottom: 1rem;
+    width: 40%;
+    height: 2rem;
+}
+.mainCard{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    color: #fff;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.cardHead{
+    color: blue;
+    margin: 0!important;
+    padding-left: 1rem;
+}
+.cardText{
+    color: #fff;
+}
+.top{
+    display: flex;
+    border-bottom: 1px solid blue;
+    margin-bottom: 2rem;
+}
